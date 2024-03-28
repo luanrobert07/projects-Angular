@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "The Matrix",
+    "category": "Science Fiction",
+    "duration": "136 minutes"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "category": "Drama",
+    "duration": "142 minutes"
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "category": "Science Fiction",
+    "duration": "148 minutes"
+  },
+  {
+    "id": 4,
+    "title": "The Godfather",
+    "category": "Crime",
+    "duration": "175 minutes"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "category": "Crime",
+    "duration": "154 minutes"
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "category": "Drama",
+    "duration": "142 minutes"
+  },
+  {
+    "id": 7,
+    "title": "The Dark Knight",
+    "category": "Action",
+    "duration": "152 minutes"
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "category": "Fantasy",
+    "duration": "178 minutes"
+  },
+  {
+    "id": 9,
+    "title": "The Silence of the Lambs",
+    "category": "Thriller",
+    "duration": "118 minutes"
+  },
+  {
+    "id": 10,
+    "title": "Schindler's List",
+    "category": "Drama",
+    "duration": "195 minutes"
+  }
+]

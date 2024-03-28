@@ -1,0 +1,14 @@
+.home -container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:5vw;
+  margin:5vw;
+  border:1px solid black;
+}
+
+.home-item {
+  font-size: 1.25rem;
+  color: black;
+  text-align: center;
+}
