@@ -1,27 +1,55 @@
-# Apa
+<h1 align="center">
+   List movies
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+<h4 align="center"> 
+	🚧  List movies ♻️ Em desenvolvimento 🚀 🚧
+</h4>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Sobre o projeto
 
-## Code scaffolding
+♻️ List Movies - é uma aplicação em Angular pde um catálogo simples de filmes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Projeto desenvolvido na matéria **Arquitetura de Software**.
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Funcionalidades
 
-## Running unit tests
+- [x] Listar filmes
+- [x] Aviso sobre rotas inexistentes
+- [ ] Adicionar filmes pelo back-end
+- [ ] Editar filmes
+- [ ] Remover filmes
+- [ ] Adicionar a imagem do filme e um trailer 
+- [ ] Sistema de Login
+- [ ] Sistema de Cadastro
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 🚀 Como executar o projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+```bash
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Clone este repositório
+$ git clone https://github.com/luanrobert07/projects-Angular.git
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ ng serve -o
+
+```
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Aplicação**  ([React-Native](https://reactnative.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+
