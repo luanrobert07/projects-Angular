@@ -50,6 +50,6 @@ $ ng serve -o
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Aplicação**  ([Angular](https://angular.io/cli/)  +  [TypeScript](https://www.typescriptlang.org/) + [Tailwind-CSS](https://tailwindcss.com)
+#### **Aplicação**  ([Angular](https://angular.io/cli/)  +  [TypeScript](https://www.typescriptlang.org/) + [Tailwind-CSS](https://tailwindcss.com)).
 
 
